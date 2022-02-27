@@ -1,0 +1,542 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The names of such members of the Commons House of Parliament as have already subscribed in persuance of the act of Parliament, for the speedy reducing of the rebels, and the future peace and safety of this kingdome (a worke tending much to the glory of Almighty God, and the succour and reliefe of our distressed brethen in Ireland) together with the summes they have severally under-written, viz. Also, a special order of the House of Commons, concerning the free offer of the county of Buckingham, shewing their great exceptance thereof, with their exceptance of such shires as shall doe the like, also shewing by what meanes they shall be repaid againe. Ordered forthwith to be printed, H. Elsing-Clerc. Parl. Com.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89725</idno>
+            <idno type="STC">Wing N128</idno>
+            <idno type="STC">Thomason 669.f.5[3]</idno>
+            <idno type="STC">ESTC R210443</idno>
+            <idno type="EEBO-CITATION">99869243</idno>
+            <idno type="PROQUEST">99869243</idno>
+            <idno type="VID">160716</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89725)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160716)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f5[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The names of such members of the Commons House of Parliament as have already subscribed in persuance of the act of Parliament, for the speedy reducing of the rebels, and the future peace and safety of this kingdome (a worke tending much to the glory of Almighty God, and the succour and reliefe of our distressed brethen in Ireland) together with the summes they have severally under-written, viz. Also, a special order of the House of Commons, concerning the free offer of the county of Buckingham, shewing their great exceptance thereof, with their exceptance of such shires as shall doe the like, also shewing by what meanes they shall be repaid againe. Ordered forthwith to be printed, H. Elsing-Clerc. Parl. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>for John Francks,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The gentlemen of Bucks have freely offered to lend £6000 for Ireland and to pay it before 1 May.</note>
+                  <note>Document dated: Die Sabbati. 9 April. 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Finance --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Buckinghamshire (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:160716:1" rendition="simple:additions"/>
+            <head>THE NAMES OF SUCH Members of the Commons Houſe of Parliament, as have already ſubſcribed in perſuance of the Act of Parliament, for the ſpeedy reducing of the Rebels, and the future peace and ſafety of this Kingdome (a worke tending much to the glory of Al<g ref="char:EOLhyphen"/>mighty God, and the ſuccour and reliefe of our diſtreſſed Brethren in <hi>Ireland)</hi> together with the ſummes they have ſeverally under-written, <hi>Viz.</hi>
+            </head>
+            <head>Alſo, a ſpeciall order of the Houſe of Commons, concerning the free offer of the County of <hi>Buckingham,</hi> ſhewing their great exceptance thereof, with their excep<g ref="char:EOLhyphen"/>tance of ſuch Shires as ſhall doe the like, alſo ſhewing by what meanes they ſhall be repaid againe. Ordered forthwith to be Printed, <hi>H. Elſing. Clerc. Parl. Com.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <seg rend="decorInit">M</seg>Aſter <hi>Walter Long</hi>
+                     </cell>
+                     <cell>1200l.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Robert Pye</hi>
+                     </cell>
+                     <cell>1000l.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Samuel</hi> Vaſſall <note place="margin">8. <hi>Marcij.</hi> 1641.</note>
+                     </cell>
+                     <cell>1200l.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Samuel Rolles</hi> of <hi>Devon.</hi>
+                     </cell>
+                     <cell>1000.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William</hi> Lord <hi>Munſon</hi>
+                     </cell>
+                     <cell>2400.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Harriſon</hi>
+                     </cell>
+                     <cell>1200.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>William Brereton</hi> 
+                        <note place="margin">19. <hi>Marcij.</hi>
+                        </note>
+                     </cell>
+                     <cell>1000.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Edward Aiſhcough</hi> 
+                        <note place="margin">21. <hi>Marcij.</hi>
+                        </note>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Iohn</hi> and Maſter <hi>Edward Aſh</hi>
+                     </cell>
+                     <cell>1200.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Gilbert Pickering.</hi> 
+                        <note place="margin">24 <hi>Marcij.</hi>
+                        </note>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Iohn Clotworthy</hi> in money <note place="margin">25. <hi>Marcij.</hi> 1642.</note>
+                     </cell>
+                     <cell>0500.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Clotworthy</hi> for his entertainments as Co<g ref="char:EOLhyphen"/>lonell in the <hi>Iriſh</hi> warres</cell>
+                     <cell>0500.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Henry Martin</hi>
+                     </cell>
+                     <cell>1200.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Arthur Goodwyn</hi> 
+                        <note place="margin">26. <hi>Marcij.</hi>
+                        </note>
+                     </cell>
+                     <cell>1800.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Arthur Haſlerigge</hi> of Leiceſterſhire</cell>
+                     <cell>1200.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Robert Reynolds</hi>
+                     </cell>
+                     <cell>1200.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Robert Parkhurſt</hi>
+                     </cell>
+                     <cell>1000.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Thomas Dacres</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Potts</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Arthur Ingram</hi>
+                     </cell>
+                     <cell>1000.</cell>
+                  </row>
+                  <row>
+                     <cell>Doctor <hi>Thomas Eden</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Oliver Cromwell</hi>
+                     </cell>
+                     <cell>0500.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Nathaniel Fines</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>John Pym</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Walter Earle</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Cornelius Holland</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Northcot</hi>
+                     </cell>
+                     <cell>0450.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Roger Mathew</hi>
+                     </cell>
+                     <cell>0300.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Nathaniel Bernardiſton</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Willam Maſham</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Martin Lomley,</hi> for <hi>Martin Lomley</hi> Eſquire, his ſonne</cell>
+                     <cell>1200.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Thomas Hoyle</hi> of <hi>Yorke</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Anthony Bednigfield</hi> &amp; Maſter <hi>William Cage</hi>
+                     </cell>
+                     <cell>0700.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>William Allenſon</hi> of <hi>Yorke</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>William Hevengham</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Harbert Morley</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>William Morley</hi>
+                     </cell>
+                     <cell>1200.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Culpepper</hi>
+                     </cell>
+                     <cell>0600l.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Edward Partherich</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Shuttleworth</hi> Eſquire</cell>
+                     <cell>0500.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>John More,</hi> and Maſter <hi>William Thomas</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>John Liſle</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>John Blackſtone</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Gilbert Gerrard</hi>
+                     </cell>
+                     <cell>2000.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Bulſtrod Whitlock</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Edmond Momford,</hi> and maſter <hi>Richard Harmon</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>John Trenchard</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Iohn Gurdon</hi>
+                     </cell>
+                     <cell>1000.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Iohn Barker</hi>
+                     </cell>
+                     <cell>1000.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>William Harriſon</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Mr. <hi>Iohn Wilde</hi> Serjeant at Law, &amp; Mr. <hi>Thomas Lane</hi>
+                     </cell>
+                     <cell>1000. <note place="margin">29. <hi>Marcij.</hi>
+                        </note>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nathaniel Hallowes</hi> of <hi>Darby</hi> for himſelfe &amp; others</cell>
+                     <cell>1400.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Iohn Franklin</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>George Buller</hi> of the County of <hi>Cornwall</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Henry Mildmay</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Oliver St. Iohn</hi>
+                     </cell>
+                     <cell>0600. <note place="margin">1. <hi>April.</hi>
+                        </note>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Wray</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Thomas Barrington</hi>
+                     </cell>
+                     <cell>1200.</cell>
+                  </row>
+                  <row>
+                     <cell>Mr. <hi>Robert Goodwyn,</hi> and maſter <hi>John Goodwyn</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Denzil Hollis</hi>
+                     </cell>
+                     <cell>1000. <note place="margin">2. <hi>April.</hi>
+                        </note>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Iohn Crew</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Thomas Peyton</hi>
+                     </cell>
+                     <cell>0600. <note place="margin">4. <hi>April.</hi>
+                        </note>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>William Plactors</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>William Strickland</hi>
+                     </cell>
+                     <cell>0600</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Thomas Savine</hi>
+                     </cell>
+                     <cell>1000.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Alexander</hi> and Squire <hi>Bence</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Iohn Rolles</hi> of <hi>Devon.</hi>
+                     </cell>
+                     <cell>0450.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Iohn Hampden</hi>
+                     </cell>
+                     <cell>1000.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>William <gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eſson</hi>
+                     </cell>
+                     <cell>0300.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Edward Baynton</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas</hi> Lord <hi>Wenman,</hi> and Mr. <hi>Richard Winwood</hi>
+                     </cell>
+                     <cell>1200. <note place="margin">5. <hi>April.</hi>
+                        </note>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>William Drake</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>William Spurſtow</hi>
+                     </cell>
+                     <cell>0600.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Iohn Evelyn</hi> of <hi>Godſtone</hi> in the County of <hi>Sur<g ref="char:EOLhyphen"/>rey</hi> for himſelfe and others</cell>
+                     <cell>1500. <note place="margin">April.</note>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Maſter <hi>Myles Corbet</hi>
+                     </cell>
+                     <cell>0200. <note place="margin">9. <hi>April.</hi>
+                        </note>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <div type="Parliamentary_order">
+               <head>
+                  <hi>Die Sabbati.</hi> 9. <hi>April.</hi> 1642.</head>
+               <p>WHereas the Gentlemen of the County of <hi>Buckingham</hi> have offered unto this Houſe freely, to lend ſixe thouſand pounds upon the Act of Contribution for the affaires of <hi>Ireland,</hi> and to pay in the ſame before the firſt day of <hi>May</hi> next enſuing This Houſe doth take in very good part that offer, and accept the ſame, and doth hereby Order, that the ſaid ſixe thouſand pounds ſhall be repaied out of the firſt moneys that ſhall be rayſed in that County upon the Bill of foure hundred thouſand pounds, and Maſter <hi>Hampden,</hi> Maſter <hi>Goodwyn,</hi> Maſter <hi>VVinwood,</hi> and Maſter <hi>VVhitlocke,</hi> are appointed to returne thankes to the County of <hi>Buck.</hi> from this Houſe for their kind offer an acceptable ſervice.</p>
+               <p>And it is further Ordered and declared by this Houſe, that if any other Countie, or perſons ſhall doe the like, the ſame will be taken as a very good ſervice to the Common-wealth, and ſuch as will bee well accepted by this Houſe, and the moneys which they ſhall lend, ſhall be repayed unto them with intereſt, if they deſi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e it, out of the moneys that ſhall be raiſed in thoſe Counties where ſuch perſons inhabite, out of the Bill of foure hundred thouſand pounds. And it is further ordered, that this Order ſhall be forthwith Printed.</p>
+               <closer>
+                  <signed>H. Elſynge Cler. Parl. Com.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London</hi> for <hi>John Francks.</hi> 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
